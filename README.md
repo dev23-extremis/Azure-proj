@@ -1,3 +1,3 @@
-# Passwd-Generator
+# Azure-proj
 
-# Generate Password using random function
+# deploying a game using azure devops
